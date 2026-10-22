@@ -401,4 +401,14 @@ Microsoft Store
 
 ![chatgpt02](img/chatgpt/02-chatgpt.png)
 
+По окончании установки запускаем приложение ```ChatGPT``` и нажимаем кнопку ```Продолжите, чтобы войти```
 
+![chatgpt03](img/chatgpt/03-chatgpt.png)
+
+В браузере на странице аутентификации выбираем ```Продолжить с Google```
+
+![chatgpt04](img/chatgpt/04-chatgpt.png)
+
+И выбираем созданный аккаунт
+
+![chatgpt05](img/chatgpt/05-chatgpt.png)
